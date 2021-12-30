@@ -1,0 +1,477 @@
+body{
+    margin: 0px;
+}
+
+
+#top{
+    background-color:rgb(255,227, 0);
+    width:100%;
+    height: 60px;
+    margin: auto;
+}
+#logo{
+    background-color: :rgba(0, 155, 226,0);
+    width: 220px;
+    height: 60px;
+    float:left;
+    text-align: center;
+    line-height:60px;
+    font-size: 25px;
+    
+}
+#user{
+    background-color:rgba(0, 255,255,0);/*透明度为0*/
+    width: 60px;
+    height: 60px;
+    float:right;
+    margin:0px 20px 0px 0px;
+    padding: 0px;
+}
+#big{
+    background-color: rgb(255, 255, 255);
+    width: 1450px;
+    height: 2360px;
+    margin:0 auto
+    
+}
+#banner{
+    background-color: chartreuse;
+    width: 1450px;
+    height: 400px;
+    top: 69px;
+    overflow:hidden;
+}
+#bankuai01{
+    
+    width: 640px;
+    height: 60px;
+    margin-left: 0px;
+    margin-top: 30px;
+    float: left;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+    font-family: unset;
+}
+#bankuai02{
+    
+    width: 640px;
+    height: 60px;
+    margin-right: 0px;
+    margin-top: 30px;
+    float: right;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+    font-family: unset;
+}
+#sheji{
+    width: 100px;
+    height: 50px;
+    margin: auto;
+    border-bottom:black 5px solid;
+    text-align: center;
+}
+#sheying{
+    width: 100px;
+    height: 50px;
+    margin: auto;
+    
+    text-align: center;
+    
+}
+#biaoti01{
+    background-color: rgb(255, 210, 9);
+    width: 100px;
+    height: 50px;
+    margin-top: 120px;
+    text-align: center;
+    line-height: 50px;
+}
+#video01{
+    background-color: rgb(0, 255, 200);
+    width: 640px;
+    height: 360px;
+    float: left;
+    margin-top: 30px;
+}
+#Video01{
+    width: 640px;
+    height: 360px;
+}
+
+#video02{
+    background-color: rgb(0, 255, 200);
+    width: 640px;
+    height: 360px;
+    float: right;
+    margin-top: 30px;
+}
+#biaoti02{
+    background-color: rgb(255, 210, 9);
+    width: 100px;
+    height: 50px;
+    margin-top: 450px;
+    text-align: center;
+    line-height: 50px;
+}
+#video03{
+    background-color: seagreen;
+    width: 640px;
+    height: 360px;
+    margin-top: 30px;
+    float: left;
+}
+#imge01{
+    background-color: tan;
+    width: 640px;
+    height: 360px;
+    float: right;
+    margin-top: 30px;
+}
+#photo{
+    background-color: rgb(45, 45, 45);
+    width: 100px;
+    height: 50px;
+    margin-top: 450px;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+}
+#photo001{
+    background-color: yellow;
+    width: 640px;
+    height: 360px;
+    float: left;
+    margin-top: 30px;
+}
+#imge02{
+    background-color: yellow;
+    width: 640px;
+    height: 360px;
+    float: right;
+    margin-top: 30px;
+}
+#dibu{
+    background-color: rgb(45, 45, 45);
+    width: 100%;
+    height: 300px;
+    margin: auto;
+    
+}
+#fudong{
+    background-color: rgb(36, 66, 148);
+    width: 50px;
+    height: 245px;
+    position:fixed;
+    right:0px;
+    top: 350px;
+}
+.lianxi01{
+    background-color:rgb(42, 174, 103);
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+.lianxi02{
+    background-color:rgb(18, 183, 245);
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+.lianxi03{
+    background-color: rgb(255, 227,0);
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+.lianxi04{
+    background-color: rgb(25, 118, 210);
+    width: 50px;
+    height: 50px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+    text-align: center;
+    line-height: 50px;
+}
+.lianxi05{
+    background-color: rgb(251, 114, 153);
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+#VX{
+    width: 40px;
+    margin-top: 5px;
+}
+#qq{
+    width: 40px;
+    margin-top: 5px;
+}
+#ZK{
+    width: 47px;
+    margin-top: 2px;
+}
+#facebook{
+    width: 47px;
+    margin-top: 2px;
+}
+#bilibili{
+    width: 47px;
+    margin-top: 2px;
+}
+#userimge{
+    background-color: rgb(255, 255, 255);
+    width: 50px;
+    height: 50px;
+    margin:auto;
+    
+    margin-top: 5px;
+    /*下面这个是设置圆角书*/
+    border-radius:50px;
+}
+body{
+    background-color: rgb(247, 247, 247);
+}
+#wangye{
+    width: 45px;
+    height: 45px;
+    border-radius: 50px;
+    margin: 2px 2px 2px 2px;
+}
+#username{
+    color: black;
+    width: 50px;
+    height: 30px;
+    float:right;
+    margin-right: 10px;
+}
+.lunbotupian{
+    float: left;
+    padding: 0px 0px 0px 0px;
+}
+#banner2{
+    width: 7260px;
+    height: 400px;
+    animation-duration: 10s; /*动画播放的秒数*/
+	animation-iteration-count: infinite;/*动画无限循环播放*/
+	animation-name: a;/*动画名是example*/
+}
+@keyframes a {
+   0%{
+       transform: translate(0,0);
+   }
+   20%{
+       transform: translate(0,0);
+   }
+   25%{
+       transform: translate(-1450px,0);
+   }
+   45%{
+       transform: translate(-1450px,0);
+   }
+   50%{
+       transform: translate(-2900px,0);
+   }
+   70%{
+       transform: translate(-2900px,0); 
+   }
+   75%{
+       transform: translate(-4350px,0);
+   }
+   95%{
+       transform: translate(-4350px,0);
+   }
+   100%{
+       transform: translate(-5800px,0);
+   }
+      }
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: whitesmoke;
+}
+.box{
+    
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    float: left;
+    margin-left: 18.5px;
+}
+#bigbox{
+    
+    width: 500px;
+    height: 50px;
+    margin: auto;
+}
+.tubiao{
+    width: 50px;
+}
+/* #erweima{
+    background-color: rgb(42, 174, 103);
+    width: 100px;
+    height: 100px;
+    float: right;
+    position:fixed;
+    top: 350px;
+    right: 60px;
+} */
+#erweimaphoto{
+    width: 100px;
+}
+#alainjie{
+    text-decoration:none
+}
+a{
+    color: rgb(150, 150, 150);
+}
+a:visited{color: rgb(150, 150, 150);
+}
+a:hover{
+     color:black ;
+}
+@media screen and (max-width: 450px) {
+    #top{
+        width: 400px;
+    }
+    #logo{
+        text-align: left;
+        margin-left: 5px
+    }
+    #bankuai01{
+        width: 187.5px;
+    }
+    #bankuai02{
+        width: 187.5px;
+        float: left;
+    }
+    #banner{
+        width: 320px;
+        height: 180px;
+        margin-left: 27.5px;
+    }
+    #banner2{
+        width: 320px;
+        height: 180px;
+        margin-left: 27.5px;
+    }
+    #video01{
+        width: 384px;
+        height: 216px; 
+    }
+    #Video01{
+        width: 384px;
+        height: 216px;
+    }
+    #video02{
+        float: none;
+        width: 384px;
+        height: 216px;
+    }
+    #Video02{
+        width: 384px;
+        height: 216px;
+        margin-top: 10px;
+    }
+    #user{
+        margin:0px 40px 0px 0px;
+    }
+    #biaoti02{
+        background-color: rgb(255, 210, 9);
+        width: 100px;
+        height: 50px;
+        margin-top: 250px;
+        text-align: center;
+        line-height: 50px;
+    }
+    #sheji{
+        width: 100px;
+        height: 50px;
+        margin: auto;
+        border-bottom:black 5px solid;
+        text-align: center;
+        font-size: 20px;
+    }
+    #sheying{
+        width: 100px;
+        height: 50px;
+        margin: auto;
+        border-bottom:black 0px solid;
+        text-align: center;
+        font-size: 20px;
+    }
+    #sheji{
+        width: 100px;
+        height: 50px;
+        margin: auto;
+        border-bottom:black 2px solid;
+        text-align: center;
+    }
+    #video03{
+        width: 384px;
+        height: 216px;
+    }
+    #imge01{
+        width: 384px;
+        height: 216px;
+        float: none;
+        margin-top: 260px;
+    }
+    #photo{
+        background-color: rgb(45, 45, 45);
+        width: 100px;
+        height: 50px;
+        margin-top: 25px;
+        text-align: center;
+        line-height: 50px;
+        color: white;
+    }
+    #Photo001{
+        width: 384px;
+        height: 216px;
+    }
+    #photo001{
+        width: 384px;
+        height: 216px;
+    }
+    #imge02{
+        width: 384px;
+        height: 216px;
+        float:none;
+        margin-top: 260px;
+    }
+    #big{
+        width: 400px;
+        height: 2000px;
+    }
+    #bigbox{
+        width: 400px;
+        margin-left: 20px;
+
+
+    }
+    .tubiao{
+        width: 20px;
+        height: 20px;
+        
+        
+    }
+    h1{
+        font-size: 30px;
+    }
+    #dibu{
+        height: 150px;
+        
+    }
+    .box{
+        width: 25px;
+        height: 25px;
+        line-height: 50px;
+        float: left;
+        margin-left: 18.5px;
+    }
+  
+}
